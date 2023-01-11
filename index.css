@@ -17,8 +17,6 @@ h1.name{
 
 .body {
   text-align: center;
-  margin: 50px;
-  padding: 50px;
   display: inline-block;
   box-sizing: border-box;
 }
