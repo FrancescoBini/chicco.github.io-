@@ -4,20 +4,24 @@
 
 .body {
   text-align: center;
-
 }
 
 .name h1{
   font-weight: 900;
   color: blue;
-  backgound-color: green; 
+  background-color: green;
 }
 
-body{
-  backgorund-color: blue;
+.curriculum{
+  background-color: blue;
   color: white;
 }
 
+.linkedin{
+  color: white;
+  background-color: blue;
+}
 .profile-picture{
-   
+  height: 100px;
+  width: 100px;
 }
