@@ -2,8 +2,8 @@
   text-align: center;
 }
 .profile-picture{
-  height: 20px;
-  width: 20px;
+  height: 100px;
+  width: 100px;
   boreder-radius: 50px;
 }
 
@@ -28,6 +28,10 @@ div .name h1{
 .linkedin{
   color: #2565AE;
   background-color: #05F3FE;
+  box-sizing: content-box;
+  width: 100px;
+  border: solid #5B6DCD 10px;
+  padding: 5px;
 }
 .opensea{
   color: #2565AE;
