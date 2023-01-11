@@ -21,8 +21,10 @@ h1.name{
 }
 
 .links{
-  border: solid #5B6DCF 1px;
-  border-radius: 15px;
+  border: 10px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 25% auto;
 }
 
 #link {
