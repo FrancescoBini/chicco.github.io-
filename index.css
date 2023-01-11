@@ -32,25 +32,16 @@
   border-radius: 15px;
 }
 
-.linkedin{
-  color: #2565AE;
-  background-color: #05F3FE;
-  width: 100px;
-  border: solid #5B6DCD 1px;
-}
-.opensea{
-  color: #2565AE;
-  background-color: #05F3FE;
-  width: 100px;
-  border: solid #5B6DCD 1px;
-}
 
-.links{
+.link-header{
   margin: 50%;
 }
 
 .currently {
   width: 150px;
   length: 200px;
-  
+  background-color: grey;
+  color: green;
+  padding: 2px;
+  margin: 25px;
 }
