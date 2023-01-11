@@ -12,6 +12,7 @@
   text-align: center;
   margin: 50px;
   padding: 50px;
+  display: inline-block;
 }
 
 h1 .name{
@@ -45,3 +46,9 @@ h1 .name{
   margin: 50%;
 }
 
+.currently {
+  box-sizing: border-box;
+  width: 150px;
+  length: 200px;
+  
+}
