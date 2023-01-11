@@ -20,12 +20,12 @@ h1 .name{
   background-color: green;
 }
 
-.curriculum{
+.alink{
   color: #2565AE;
   background-color: #05F3FE;
   width: 100px;
   border: solid #5B6DCD 1px;
-  
+  border-radius: 15px;
 }
 
 .linkedin{
