@@ -34,8 +34,7 @@ h1.name{
 }
 
 .currently {
-  width: 1000px;
-  length: 500px;
+  length: 50px;
   border: 15px solid grey;
   color: green;
   padding: 2px;
