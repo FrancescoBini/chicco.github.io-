@@ -1,27 +1,40 @@
 .banner {
   text-align: center;
 }
+.profile-picture{
+  height: 20px;
+  width: 20px;
+  boreder-radius: 50px;
+}
+
 
 .body {
   text-align: center;
+  margin: 50px;
+  padding: 50px;
 }
 
-.name h1{
+div .name h1{
   font-weight: 900;
   color: purple;
   background-color: green;
 }
 
 .curriculum{
-  background-color: blue;
-  color: green;
+  background-color: #05F3FE;
+  color: #2565AE;
 }
 
 .linkedin{
-  color: white;
-  background-color: blue;
+  color: #2565AE;
+  background-color: #05F3FE;
 }
-.profile-picture{
-  height: 20px;
-  width: 20px;
+.opensea{
+  color: #2565AE;
+  background-color: #05F3FE;
 }
+
+.links{
+  margin: 50%;
+}
+
