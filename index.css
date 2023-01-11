@@ -1,17 +1,18 @@
 .banner {
   text-align: center;
-}
-
-.profile-picture{
-  height: 200px;
-  width: 200px;
-  border-radius: 50px;
+  width: 100%;
 }
 
 h1.name{
   font-weight: 900;
   color: purple;
   background-color: green;
+}
+
+.profile-picture{
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
 }
 
 .body {
