@@ -35,8 +35,8 @@ h1.name{
 }
 
 .currently {
-  width: 150px;
-  length: 200px;
+  width: 1000px;
+  length: 500px;
   border: 15px;
   border-color: grey;
   color: green;
