@@ -1,12 +1,14 @@
 .banner {
   text-align: center;
+  width: 1000px;
+
 }
+
 .profile-picture{
   height: 200px;
   width: 200px;
-  boreder-radius: 50px;
+  border-radius: 50px;
 }
-
 
 .body {
   text-align: center;
