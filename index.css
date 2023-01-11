@@ -37,8 +37,7 @@ h1.name{
 .currently {
   width: 1000px;
   length: 500px;
-  border: 15px;
-  border-color: grey;
+  border: 15px solid grey;
   color: green;
   padding: 2px;
   margin: 25px;
