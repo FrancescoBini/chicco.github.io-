@@ -17,35 +17,39 @@ h1.name{
 
 .body {
   text-align: center;
-  box-sizing: border-box;
 }
 
-.links{
+#box {
   border: 10px solid black;
   width: 200px;
   height: 200px;
   margin: 25% auto;
+  box-sizing: border-box;
 }
 
-#link {
-  border: solid #5B6DCD 1px;
-  color: #2565AE;
-  background-color: #05F3FE;
+#links {
+  border: 5px solid red;
+  width: 91px;
+  height: 182px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 #link-header{
-  
+  font-size: 400px;
 }
 
-.currently-doing {
-  border: 1px solid grey;
-  color: green;
-  padding: 1px;
-  margin: 1px;
+#currently-doing {
+  border: 5px solid red;
+  width: 91px;
+  height: 182px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-#currently h3{
-  color:blue;
-}
 
 
