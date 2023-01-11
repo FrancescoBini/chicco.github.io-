@@ -6,7 +6,7 @@
 h1.name{
   font-weight: 900;
   color: purple;
-  background-color: green;
+  background-color: blue;
 }
 
 .profile-picture{
@@ -28,7 +28,7 @@ h1.name{
 }
 
 #links {
-  border: 5px solid red;
+  border: 1px solid white;
   width: 91px;
   height: 182px;
   display: inline-block;
@@ -43,7 +43,7 @@ h1.name{
 }
 
 #currently-doing {
-  border: 5px solid blue;
+  border: 1px solid blue;
   width: 90px;
   display: inline-block;
   height: 182px;
