@@ -1,6 +1,23 @@
-h1{
-  font-weight: bold;
+.banner {
+  text-align: center;
+}
+
+.body {
+  text-align: center;
+
+}
+
+.name h1{
+  font-weight: 900;
   color: blue;
   backgound-color: green; 
-  position: center;
+}
+
+body{
+  backgorund-color: blue;
+  color: white;
+}
+
+.profile-picture{
+   
 }
