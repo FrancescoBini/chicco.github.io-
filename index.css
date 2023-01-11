@@ -21,22 +21,24 @@ h1 .name{
 }
 
 .curriculum{
-  background-color: #05F3FE;
   color: #2565AE;
-  border-radius: 15px;
+  background-color: #05F3FE;
+  width: 100px;
+  border: solid #5B6DCD 1px;
+  
 }
 
 .linkedin{
   color: #2565AE;
   background-color: #05F3FE;
-  box-sizing: content-box;
   width: 100px;
-  border: solid #5B6DCD 10px;
-  padding: 5px;
+  border: solid #5B6DCD 1px;
 }
 .opensea{
   color: #2565AE;
   background-color: #05F3FE;
+  width: 100px;
+  border: solid #5B6DCD 1px;
 }
 
 .links{
