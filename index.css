@@ -9,6 +9,9 @@
   background-color: blue;
 }
 
+.bodyone {
+  text-align: center;
+}
 .first-box {
   border: 1px solid black;
   width: 50%;
@@ -38,7 +41,7 @@
 }
 
 
-.body {
+.bodytwo {
   text-align: center;
 }
 
