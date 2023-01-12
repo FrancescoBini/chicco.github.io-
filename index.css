@@ -1,19 +1,42 @@
 .banner {
   text-align: center;
-  width: 100%;
+  width: 75%;
 }
 
-h1.name{
+#name{
   font-weight: 900;
   color: purple;
   background-color: blue;
 }
 
-.profile-picture{
-  height: 200px;
-  width: 200px;
+.first-box {
+  border: 1px solid black;
+  width: 50%;
+  height: 300px;
+  margin: 5% auto;
+  box-sizing: border-box;
+}
+.profile-pic{
+  border: 1px solid blue;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   border-radius: 50px;
 }
+.presentation {
+  border: 1px solid blue;
+  width: 25%;
+  display: inline-block;
+  height: 300px;
+  float: right;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 
 .body {
   text-align: center;
@@ -28,7 +51,7 @@ h1.name{
 }
 
 #links {
-  border: 1px solid white;
+  border: 1px solid blue;
   width: 50%;
   height: 182px;
   display: inline-block;
