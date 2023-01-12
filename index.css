@@ -17,10 +17,10 @@
   border: 1px solid black;
   width: 50%;
   height: 300px;
-  margin: 5% auto;
+  margin: 5% 0;
   box-sizing: border-box;
 }
-.profile-pic{
+/*.profile-pic{
   border: 1px solid blue;
   width: 150px;
   height: 150px;
@@ -29,7 +29,7 @@
   padding: 0;
   box-sizing: border-box;
   border-radius: 50px;
-}
+}*/
 .presentation {
   border: 1px solid blue;
   width: 25%;
