@@ -8,26 +8,43 @@
   background-color: blue;
 }
 
-.bodyone {
+body {
   text-align: center;
 }
-.first-box {
+
+.boxone {
   border: 1px solid black;
   width: 50%;
   height: 300px;
   margin: 5% 0;
   box-sizing: border-box;
+  text-align: center;
 }
-/*.profile-pic{
+.profile-pic{
   border: 1px solid blue;
-  width: 150px;
-  height: 150px;
+  width: 50%;
+  height: 100%;
   display: inline-block;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   border-radius: 50px;
-}*/
+  
+  border: 1px solid blue;
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ #picture{
+  border-radius: 50px; 
+  width: 150px;
+  height: 150px;
+}
+
 .presentation {
   border: 1px solid blue;
   width: 25%;
@@ -40,11 +57,7 @@
 }
 
 
-.bodytwo {
-  text-align: center;
-}
-
-#box {
+#boxtwo {
   border: 10px solid black;
   width: 100%;
   height: 400px;
