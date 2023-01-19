@@ -8,30 +8,30 @@ body {
     border-radius: 20px;;
     width: 350px;
     height: 50px;
-    margin: 0 auto;
-    margin-bottom: 30px;
+    margin: auto;
+    margin-bottom: 30px;  
+    border: 1px solid #2E2F34;
 
-    
 }  
 
 
 #name {
     text-align: center;
-    margin: 0;
-    margin-top: 10px;
+    margin: 7px auto;
     color: #9BADB1;
+    border-radius: 20px;
 }
 
 h1 {
     font-weight: bold;
     margin: auto;
-    margin-top: 10px;
+   
 
 }
 
 a{
     text-decoration: underline;
-    color: #466995;
+    color: #9BADB1;
     cursor: pointer;
 }
 
@@ -43,7 +43,7 @@ a:hover{
 
   
 .box {
-    border-radius: 25px;
+    border-radius: 50px;
     background-color: #2E2F34;
     width: 80%;
     height: 600px;
@@ -53,11 +53,23 @@ a:hover{
     text-align: center;
 }
 
+.top{
+    display: inline-block;
+    text-align: center;
+    width: 90%;
+    height: 50%;
+}
+.bottom {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
 .profile-pic{
     width: 40%;
     height: 50%;
     margin: 0;
-    margin-top: ;
     padding: 0;
     box-sizing: content-box;
     
@@ -87,37 +99,26 @@ a:hover{
 }
 
   
-#links {
-    text-align: center;
-    width: 30%;
-    height: 200px;
-    display: inline-block;
-    margin: 0;
-    color: #9BADB1;
-    margin-top: 30px;;
-    padding: 0;
-    box-sizing: border-box;
-    left: 400px;
-    right: 400px;
-}
-  
 #link-header{
     font-size: 25px;
     text-align: center;
     margin: 10px;
-    color: #9BADB1;
+    color: white;
 }
   
-#currently-doing {
-    width: 70%;
-    color: #9BADB1;
-    display: inline-block;
-    height: 100%;
-    float: right;
-    box-sizing: border-box;
-    margin: 0;
-    margin-top: 30px;;
-    padding: 0;
+#link {
+    font-size: 25px;   
+    color: #9BADB1; 
+}  
+.intro {
+    font-size: 35px;
+    font-weight: 400;
+}
+
+
+h3 {
+    color: white;
+
 }
   
 
